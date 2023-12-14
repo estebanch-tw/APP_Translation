@@ -1,0 +1,34 @@
+<string>English language</string>: <string>Idioma Inglés</string>
+<string>Main Window</string>: <string>Ventana principal</string>
+<string>Group Box With Check box</string>: <string>Cuadro de diálogo con casilla de verificación</string>
+<string>Scroll bar</string>: <string>Desplazamiento</string>
+<string>Slider</string>: <string>Transición</string>
+<string>test example</string>: <string>Ejemplo est</string>
+<string>Dial</string>: <string>Marcador</string>
+<string>Label</string>: <string>Etiqueta</string>
+<string>Combo Box</string>: <string>Cuadro combinado</string>
+<string>New Item 2</string>: <string>Nuevo elemento 2</string>
+<string>New Item 3</string>: <string>Nuevo elemento 3</string>
+<string>Disable Widgets</string>: <string>Inhabilitar Widge</string>
+<string>Progress Bar</string>: <string>Barra de progreso</string>
+<string>LCD Number</string>: <string>LCD Número</string>
+<string>Push Button</string>: <string>Botón de empuje</string>
+<string>Push Button Checkable</string>: <string>Botón presionable</string>
+<string>Push Button Flat</string>: <string>Botón presionable activo</string>
+<string>Push Button Default</string>: <string>Botón presionable inactivo</string>
+<string>Group Box</string>: <string>Grupo</string>
+<string>Check Box Unchecked</string>: <string>Casilla de verificación no seleccionada</string>
+<string>Radio Button</string>: <string>Botón de selección</string>
+<string>Check Box Checked</string>: <string>Casilla de verificación seleccionada</string>
+<string>Hover for toolip</string>: <string>Pasar el ratón por encima para ver la descripción</string>
+<string>Table View Alternating Rows</string>: <string>Vista de tabla con renglones alternos</string>
+<string>Table View</string>: <string>Vista de tabla</string>
+<string>Tree Widget</string>: <string>Widget de árbol</string>
+<string>Tab Text Edit</string>: <string>Pestaña de texto editable</string>
+<string>Empty Page</string>: <string>Página en blanco</string>
+<string>Test</string>: <string>Prueba</string>
+<string>Test 2</string>: <string>Prueba 2</string>
+<string>Test 3</string>: <string>Prueba 3</string>
+<string>Style</string>: <string>Estilo</string>
+<string>Light</string>: <string>Claro</string>
+<string>Dark</string>: <string>Oscuro</string>

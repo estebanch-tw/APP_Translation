@@ -1,0 +1,32 @@
+<string>English language</string>: <string>اللغة الإنجليزية</string>
+<string>Main Window</string>: <string>النافذة الرئيسية</string>
+<string>Group Box With Check box</string>: <string>مجموعة مربعات مع مربعات اختيار</string>
+<string>Scroll bar</string>: <string>شريط التمرير</string>
+<string>Slider</string>: <string>الشريط</string>
+<string>test example</string>: <string>مثال</string>
+<string>Dial</string>: <string>المقبس</string>
+<string>Label</string>: <string>التسمية</string>
+<string>Combo Box</string>: <string>مربع الاختيار</string>
+<string>New Item 2</string>: <string>بند جديد 2</string>
+<string>New Item 3</string>: <string>بند جديد 3</string>
+<string>Disable Widgets</string>: <string>تعطيل الواجد</string>
+<string>Progress Bar</string>: <string>شريط التقدم</string>
+<string>LCD Number</string>: <string>عداد LCD</string>
+<string>Push Button</string>: <string>زر الضغط</string>
+<string>Push Button Checkable</string>: <string>زر الضغط قابل للتحديد</string>
+<string>Push Button Flat</string>: <string>زر الضغط ينبغي</string>
+<string>Push Button Default</string>: <string>زر الضغط الافتراضي</string>
+<string>Group Box</string>: <string>مجموعة مربعات</string>
+<string>Check Box Unchecked</string>: <string>مربع اختيار غير محدد</string>
+<string>Radio Button</string>: <string>زر الاختيار</string>
+<string>Check Box Checked</string>: <string>مربع اختيار محدد</string>
+<string>Hover for toolip</string>: <string>التحوم للشريط التعليمات</string>
+<string>Style</string>: <string>النمط</string>
+<string>Light</string>: <string>فاتح</string>
+<string>Dark</string>: <string>غامق</string>
+<string>Table View Alternating Rows</string>: <string>عُدد الصفوف في الجدول</string>
+<string>Table View</string>: <string>جدول العرض</string>
+<string>Tree Widget</string>: <string>عُدد الصفوف في الجدول</string>
+<string>Tab Text Edit</string>: <string>عُدد الصفوف في الشجرة</string>
+<string>Empty Page</string>: <string>نص التعديل في التبويب</string>
+<string>Test</string>:      <string>Te</string>
